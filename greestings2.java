@@ -1,6 +1,6 @@
 class sample{
 void greestins(){
-System.out.println("hello');
+System.out.println("hello");
 System.out.println("have a nice day");}
 void sum(int x,int y){
 int s;
