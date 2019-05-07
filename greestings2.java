@@ -1,4 +1,4 @@
-class ample{
+class sample{
 void greestins(){
 System.out.println("hello');
 System.out.println("have a nice day");}
@@ -16,6 +16,6 @@ sample s=new sample();
 s.greetins();
 s.sum(5,7);
 int r=s.sq(7);
-System.out.println("result is :"+r)
+System.out.println("result is :"+r);
 }
 }
